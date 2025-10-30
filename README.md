@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Subramanian (aka) Dhakshin.
 - 👀 I’m interested in technologies,automation and gaming.
-- 🌱 I’m currently learning Machine learning/game development
+- 🌱 I’m currently learning Machine learning/game development/BAckend development.
 - 💞️ I’m looking to collaborate on a project or team.
 - 📫 How to reach me dhakshineaswar@gmail.com
 - 😄 Pronouns: he.
